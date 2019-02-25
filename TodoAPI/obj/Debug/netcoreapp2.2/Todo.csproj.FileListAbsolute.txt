@@ -1,0 +1,14 @@
+E:\isc07\back-end\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\Todo.deps.json
+E:\isc07\back-end\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\Todo.runtimeconfig.json
+E:\isc07\back-end\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\Todo.runtimeconfig.dev.json
+E:\isc07\back-end\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\Todo.dll
+E:\isc07\back-end\TodoAPI\TodoAPI\bin\Debug\netcoreapp2.2\Todo.pdb
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.csprojAssemblyReference.cache
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.csproj.CoreCompileInputs.cache
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.RazorAssemblyInfo.cache
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.RazorAssemblyInfo.cs
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.AssemblyInfoInputs.cache
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.AssemblyInfo.cs
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.RazorTargetAssemblyInfo.cache
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.dll
+E:\isc07\back-end\TodoAPI\TodoAPI\obj\Debug\netcoreapp2.2\Todo.pdb
